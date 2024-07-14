@@ -4,8 +4,6 @@
 
 ### Home Screen
 
-![Home screen][assets/img.png]
-![Screenshot 2024-07-14 054130](https://github.com/user-attachments/assets/599ba452-0217-492c-8bdf-f60cec42ebfa)
-
+![Screenshot 2024-07-14 195936](https://github.com/user-attachments/assets/609a8bcd-fd93-4496-801a-177bdc949d4c)
 
 
