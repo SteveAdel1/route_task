@@ -7,7 +7,6 @@ import '../widgets/product_item.dart';
 
 class view extends StatefulWidget {
   const view({super.key});
-
   @override
   State<view> createState() => _viewState();
 }

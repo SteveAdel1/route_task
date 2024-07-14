@@ -7,14 +7,12 @@ import 'package:task/data/model/ProductsModel.dart';
 import 'package:task/domain/repo/repo.dart';
 
 class RepoImp implements Repo{
-
   DataSource dataSource;
   RepoImp(this.dataSource);
 
   @override
   Future<Either<Failure, List<ProductsModel>>> productsRepo() async{
     try{
-
       var response =await dataSource.getData();
       if(response.statusCode == 200){
       List<ProductsModel>list = [];

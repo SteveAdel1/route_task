@@ -24,7 +24,6 @@ class ProductsCubit extends Cubit<States>{
 
 
     return result.fold(
-
             (fail){
           emit(ErrorStates());
           return Future.value(false);
